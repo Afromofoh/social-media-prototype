@@ -2,7 +2,7 @@
     "name": "superorganism-prototype",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://Afromofoh.github.io/Superorganism-prototype",
+    "homepage": "https://Afromofoh.github.io/social-media-prototype",
     "dependencies": {
         "lucide-react": "^0.263.1",
         "react": "^18.3.1",
